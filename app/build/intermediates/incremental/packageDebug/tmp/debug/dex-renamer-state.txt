@@ -1,0 +1,4 @@
+#Fri Nov 08 13:09:36 ICT 2019
+base.0=C\:\\Users\\PC-28\\AndroidStudioProjects\\LuciferApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
